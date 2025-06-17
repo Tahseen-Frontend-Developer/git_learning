@@ -6,5 +6,5 @@ def subtraction(a,b):
     return(a-b)
 def multipication(a,b):
     return(a*b)
-def division(x,y):
-    return x/y
+def addition(x,y):
+    return x*y
